@@ -15,7 +15,7 @@ main()
         printf("Escolheu o genero Feminino");
              break;
     default:
-        printf("Genero Invalido");
+        printf("Genero Inválido");
     }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 }
