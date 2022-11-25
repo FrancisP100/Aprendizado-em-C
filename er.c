@@ -2,7 +2,7 @@
 main()
 {
     int x,j,h;
-    printf("Introduza um numero para");
+    printf("Introduza um número para");
     printf(" ver a sua tabuada e as 5 seguintes: \n");
     scanf("%d",&x);
      
